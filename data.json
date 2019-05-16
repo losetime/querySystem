@@ -1,0 +1,64 @@
+[
+    {
+      "diameter": "1000",
+      "allowLoad": "158",
+      "supportH": "200",
+      "baseplate": {
+        "l1": "760",
+        "b1": "170",
+        "δ1": "10"
+      },
+      "abdomenBoard": "6",
+      "hellsplate": {
+        "l3": "170",
+        "b2": "140",
+        "b3": "200",
+        "δ3": "6"
+      },
+      "underboard": {
+        "arcLength": "1160",
+        "b4": "320",
+        "δ4": "6",
+        "e": "57"
+      },
+      "boltgap": {
+        "l2": "60",
+        "d": "24",
+        "m": "M20",
+        "l": "40"
+      },
+      "supportWeight": "48",
+      "addHeight": "6.1"
+    },
+    {
+      "diameter": "1100",
+      "allowLoad": "158",
+      "supportH": "200",
+      "baseplate": {
+        "l1": "760",
+        "b1": "170",
+        "δ1": "10"
+      },
+      "abdomenBoard": "6",
+      "hellsplate": {
+        "l3": "170",
+        "b2": "140",
+        "b3": "200",
+        "δ3": "6"
+      },
+      "underboard": {
+        "arcLength": "1160",
+        "b4": "320",
+        "δ4": "6",
+        "e": "57"
+      },
+      "boltgap": {
+        "l2": "60",
+        "d": "24",
+        "m": "M20",
+        "l": "40"
+      },
+      "supportWeight": "48",
+      "addHeight": "6.1"
+    }
+  ]
